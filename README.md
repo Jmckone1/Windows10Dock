@@ -56,7 +56,7 @@ Initial concepts and implementation made though the Lincoln College computer sci
 ---------------
  known issues 
 ---------------
-[ ] voice over does not function as it should, files not local to the project
-[x] tag still appears showing icon name aswell as the custom one when hovering over a user placed icon
-[ ] Application download issue
-[ ] Run on system startup doesnt appear to function
+- [ ] voice over does not function as it should, files not local to the project
+- [x] tag still appears showing icon name aswell as the custom one when hovering over a user placed icon
+- [ ] Application download issue
+- [ ] Run on system startup doesnt appear to function
