@@ -8,11 +8,11 @@ Initial concepts and implementation made though the Lincoln College computer sci
 
 # Benefits
 
-- folder drop
-  - allows the user to place folders on the dock, a feature not available in the native windows evironment
-- easy to use
-  - obvious settings and exit buttons on the application, just drag and drop any icons to place on
-- customisable appearance
+- Folder drop
+  - Allows the user to place folders on the dock, a feature not available in the native windows evironment
+- Easy to use
+  - Obvious settings and exit buttons on the application, just drag and drop any icons to place on
+- Customisable appearance
 
 # Contributors
 
@@ -38,25 +38,26 @@ Initial concepts and implementation made though the Lincoln College computer sci
 - Exit application
 - Right click to delete existing icon
 - Animations on interaction
-- voice over 
+- Voice over 
 
 -----------------
  Future Features			
 -----------------
 
-- move the dock to preset on one of the four cardinal positions
-- add an indicator to show active applications
-- reorganising of icons
-- drag an icon off the dock to remove
-- more themes
-- settings toggle for voice over
-- documentation
-- links or inclusion of project creation documentation
+- Move the dock to preset on one of the four cardinal positions
+- Add an indicator to show active applications
+- Reorganising of icons
+- Drag an icon off the dock to remove
+- More themes
+- Settings toggle for voice over
+- Documentation
+- Links or inclusion of project creation documentation
 
 ---------------
  known issues 
 ---------------
-- [ ] voice over does not function as it should, files not local to the project
-- [x] tag still appears showing icon name aswell as the custom one when hovering over a user placed icon
+- [ ] Voice over does not function as it should, files not local to the project
+- [x] Tag still appears showing icon name aswell as the custom one when hovering over a user placed icon
 - [ ] Application download issue
 - [ ] Run on system startup doesnt appear to function
+- [ ] When opening the appearance settings with any size other than the default (smallest) the dock with quickly toggle sizes
