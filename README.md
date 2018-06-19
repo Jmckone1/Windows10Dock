@@ -61,3 +61,4 @@ Initial concepts and implementation made though the Lincoln College computer sci
 - [ ] Application download issue
 - [ ] Run on system startup doesnt appear to function
 - [ ] When opening the appearance settings with any size other than the default (smallest) the dock with quickly toggle sizes
+- [ ] Some icons when dragged onto the dock are only set to the smallest available icon on the top left hand side of the designated icon slot
